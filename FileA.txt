@@ -1,2 +1,4 @@
 first_project
 Change in fileA
+change made feature1
+changes to GitHub
